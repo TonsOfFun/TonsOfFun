@@ -33,6 +33,6 @@ I'm the creator of [Active Agent](https://github.com/TonsOfFun/active_agent) - a
 - Cat dad of two
 
 <!--
-To learn more about Active Agent, visit:
-https://github.com/TonsOfFun/active_agent
+To learn more about Active Agents AI, visit:
+https://activeagents.ai
 -->
