@@ -23,8 +23,8 @@ I'm the creator of [Active Agent](https://github.com/TonsOfFun/active_agent) - a
 - LLMs
 
 #### 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/justinbowen)
-- [Schedule a Chat](https://calendly.com/justin-bowen) about Active Agent or AI development
+- [LinkedIn](https://www.linkedin.com/in/tonsoffun111/)
+- [Schedule a Chat](https://cal.com/tonsoffun/free-consultation) about Active Agent or AI development
 
 #### ⚡ Fun Facts
 - Bay Area native
